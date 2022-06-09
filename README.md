@@ -33,9 +33,14 @@ Python (jupyter notebook)
 * UCSC Genome Browser에 bedgraph 파일 업로드 및 시각화
 * pdf 파일 업로드
 
-
+### 업데이트 (22/06/10) ###
+* Web accessible server, cyverse에 sorted 된 bam, index 파일 업로드 
+* CLIP let7d의 bam, index 파일을 UCSC Genome Browser에 submit
+* UCSC Genome Browser에 bedgraph 파일 업로드 및 시각화
+* pdf 파일 업데이트
 
 ### 참고자료: ###
 * _Cho J, Chang H, Kwon SC, Kim B, Kim Y, Choe J, Ha M, Kim YK, Kim VN. LIN28A is a suppressor of ER-associated translation in embryonic stem cells. Cell. 2012 Nov 9;151(4):765-777. doi: 10.1016/j.cell.2012.10.019. Epub 2012 Oct 25. PMID: 23102813._
 * _http://genome.ucsc.edu/goldenPath/help/bedgraph.html_
-
+* _https://genome.ucsc.edu/goldenPath/help/bam.html_
+* _http://www.htslib.org/doc/samtools-mpileup.html_
